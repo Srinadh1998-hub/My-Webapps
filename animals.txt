@@ -1,5 +1,5 @@
 M Mole
 N Newt
 O Ox
-P Pott
+P Potter
 T Tashkin
