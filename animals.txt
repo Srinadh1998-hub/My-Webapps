@@ -1,5 +1,5 @@
 M Mole
 N Newt
-O Onager
+O Ox
 P Panda
-T Tapir
+T Tashkin
